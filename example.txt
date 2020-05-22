@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 change
 Add new
 More change
+=======
+>>>>>>> parent of 1b986a1... test01
